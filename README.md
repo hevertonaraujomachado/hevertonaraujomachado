@@ -1,6 +1,7 @@
 -Olá! Meu nome é Héverton Araujo. 👋
 
-📱 Atualmente trabalho com Desenvolvimento Mobile: Android Nativo./n
+📱 Atualmente trabalho com Desenvolvimento Mobile: Android Nativo.
+
 👨‍💻 Pronomes: ele/dele.
 
 <div>
@@ -10,7 +11,8 @@
 </div>
 <div style="display: inline-block;"><br>
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/icons/java/java-original.svg" />
-    <img align="center" alt="Kotlin" height="30" width="40" src="<i class="devicon-kotlin-plain colored" />
+    <img align="center" alt="Kotlin" height="30" width="40" src="<i class="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          " />
 
 
 
