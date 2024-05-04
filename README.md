@@ -1,6 +1,6 @@
-##Olá! Meu nome é Héverton Araujo. 👋
+-Olá! Meu nome é Héverton Araujo. 👋
 
-📱 Atualmente trabalho com Desenvolvimento Mobile: Android Nativo.
+📱 Atualmente trabalho com Desenvolvimento Mobile: Android Nativo./n
 👨‍💻 Pronomes: ele/dele.
 
 <div>
