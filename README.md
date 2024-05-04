@@ -4,10 +4,10 @@
 🔭 Currently, I'm working on Mobile Development.
 🌱 Currently, I'm learning Kotlin and APIs.
 👨‍💻 Pronouns: he/him.
-.
+
 
 <div>
-  <a href="https://github.com/hevertonaraujomachado/hevertonaraujomachado">
+  <a href="https://github.com/hevertonaraujomachado">
     <img height"180em" src="https://github-readme-stats.vercel.app/api?username=hevertonaraujomachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevertonaraujomachado&layout=compact&langs_count=16&theme=dracula"/>
 </div>
