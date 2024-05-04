@@ -41,7 +41,8 @@
 # Hi, I'm Fagner! :D
 
 
-(https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/@devHeverton)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white)](https://www.youtube.com/devHeverton)
+
 
 
 
