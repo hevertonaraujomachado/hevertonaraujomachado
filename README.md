@@ -1,8 +1,10 @@
--Olá! Meu nome é Héverton Araujo. 👋
 
-- 🔭 Atualmente estou trabalhando em Desenvolvimento Mobile
-- 🌱 Atualmente estou aprendendo Kotlin,Api.
-- 👨‍💻 Pronomes: ele/dele.
+- Hello! My name is Héverton Araujo. 👋
+
+🔭 Currently, I'm working on Mobile Development.
+🌱 Currently, I'm learning Kotlin and APIs.
+👨‍💻 Pronouns: he/him.
+.
 
 <div>
   <a href="https://github.com/hevertonaraujomachado/hevertonaraujomachado">
