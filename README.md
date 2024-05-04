@@ -1,7 +1,3 @@
-Claro, o modelo que você preparou parece excelente para personalizar seu perfil Git! Aqui está uma versão com suas informações específicas adicionadas:
-
-```markdown
-### Sobre Mim
 
 🎓 Graduação em Tecnologia Desenvolvimento Mobile (UNINTER) - 2023 🎓
 
@@ -35,4 +31,3 @@ Claro, o modelo que você preparou parece excelente para personalizar seu perfil
 - ⚡ Fun Fact: Sou apaixonado por resolver problemas complexos através da programação e adoro aprender novas tecnologias!
 ```
 
-Certifique-se de substituir `[hevertonaraujomachado@gmail.com]` pelos seus detalhes de contato reais e `[devHevertonaraujo]` pelos seus pronomes preferidos. O "Fun Fact" é uma oportunidade para compartilhar algo interessante sobre você que destaque sua personalidade ou interesses. Depois de personalizar, basta copiar este texto e colá-lo no arquivo `README.md` do seu repositório Git. Isso ajudará a mostrar suas habilidades de maneira clara e atrativa para outros desenvolvedores.
