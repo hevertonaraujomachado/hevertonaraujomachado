@@ -5,16 +5,12 @@
 🌱 Currently, I'm learning Kotlin and APIs.
 👨‍💻 Pronouns: he/him.
 
-
-
 <div>
-  <a href="https://github.com/hevertonaraujomachado">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevertonaraujomachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/hevertonaraujomachado">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevertonaraujomachado&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?hevertonaraujomachado=hevertonaraujomachado&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?hevertonaraujomachado=shevertonaraujomachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
 
 
 </div><div style="display: inline-block;"><br>
