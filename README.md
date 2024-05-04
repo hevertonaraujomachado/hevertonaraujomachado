@@ -42,6 +42,8 @@
 
 
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white)](https://www.youtube.com/@devHeverton)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/heverton-araujo-machado-b34b7aa2/)](https://www.linkedin.com/in/heverton-araujo-machado-b34b7aa2/)
+
 
 
 
