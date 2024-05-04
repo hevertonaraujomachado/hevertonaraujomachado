@@ -7,6 +7,9 @@
 
 
 <div>
+  <a href="https://github.com/SeuPerfilAqui/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
+</a>
   <a href="https://github.com/hevertonaraujomachado">
     <img height"180em" src="https://github-readme-stats.vercel.app/api?username=hevertonaraujomachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevertonaraujomachado&layout=compact&langs_count=16&theme=dracula"/>
