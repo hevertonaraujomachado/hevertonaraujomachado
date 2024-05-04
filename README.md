@@ -43,6 +43,10 @@
 
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white)](https://www.youtube.com/@devHeverton)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/heverton-araujo-machado-b34b7aa2/)](https://www.linkedin.com/in/heverton-araujo-machado-b34b7aa2/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hevertonaraujomachado/)](https://www.instagram.com/hevertonaraujomachado/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hevertonnmanchado.hevertonmachado)](https://www.facebook.com/hevertonnmanchado.hevertonmachado)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rheverton)](https://twitter.com/rheverton)
+
 
 
 
