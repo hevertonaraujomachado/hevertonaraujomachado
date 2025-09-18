@@ -1,10 +1,9 @@
 
-Desenvolvedor em transição de carreira de Mobile (Android/Kotlin/Java) para Back-End Java, aproveitando experiência prévia com arquitetura de software, boas práticas de programação e integração entre camadas.
+Desenvolvedor  Back-End Java, aproveitando experiência prévia com arquitetura de software, boas práticas de programação e integração entre camadas.
 
 Atualmente especializado em Spring Boot 2025, desenvolvimento de APIs REST do zero até o deploy em nuvem (AWS e GCP), com uso de Docker para conteinerização e JPA/Hibernate para persistência de dados.
 
 Experiência prática na aplicação de MVVM, Clean Code e SOLID, agora adaptados ao contexto de arquiteturas back-end modernas. Comprometido em criar soluções escaláveis, seguras e de alta performance, mantendo um código limpo e sustentável.
-👨‍💻 Pronouns: he/him.
 
 <div>
   <a href="https://github.com/seu-usuário-aqui">
