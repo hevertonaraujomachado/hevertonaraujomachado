@@ -1,9 +1,8 @@
 
-Desenvolvedor  Back-End Java, aproveitando experiência prévia com arquitetura de software, boas práticas de programação e integração entre camadas.
+💻 Desenvolvedor Back-End Java
+Especializado em Spring Boot 2025, com foco no desenvolvimento de APIs REST do zero até o deploy em nuvem (AWS e GCP). Experiência em Docker, JPA/Hibernate e práticas modernas de arquitetura back-end.
 
-Atualmente especializado em Spring Boot 2025, desenvolvimento de APIs REST do zero até o deploy em nuvem (AWS e GCP), com uso de Docker para conteinerização e JPA/Hibernate para persistência de dados.
-
-Experiência prática na aplicação de MVVM, Clean Code e SOLID, agora adaptados ao contexto de arquiteturas back-end modernas. Comprometido em criar soluções escaláveis, seguras e de alta performance, mantendo um código limpo e sustentável.
+🛠️ Forte base em arquitetura de software, Clean Code, SOLID e MVVM, aplicados para construir soluções escaláveis, seguras e de alta performance. Comprometido com boas práticas e manutenção de código limpo e sustentável.
 
 <div>
   <a href="https://github.com/seu-usuário-aqui">
