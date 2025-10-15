@@ -1,8 +1,18 @@
 
-💻 Desenvolvedor Back-End Java
-Especializado em Spring Boot 2025, com foco no desenvolvimento de APIs REST do zero até o deploy em nuvem (AWS e GCP). Experiência em Docker, JPA/Hibernate e práticas modernas de arquitetura back-end.
+# 💻 Heverton Araujo Machado
 
-🛠️ Forte base em arquitetura de software, Clean Code, SOLID e MVVM, aplicados para construir soluções escaláveis, seguras e de alta performance. Comprometido com boas práticas e manutenção de código limpo e sustentável.
+Desenvolvedor Back-End Java especializado em **Spring Boot (2025)**, com foco no desenvolvimento de **APIs REST** do zero até o deploy em nuvem (**AWS** e **GCP**). Experiência em **Docker**, **JPA/Hibernate** e práticas modernas de arquitetura back-end.
+
+🛠️ Forte base em arquitetura de software, **Clean Code**, **SOLID** e **MVVM**, aplicados para construir soluções **escaláveis, seguras e de alta performance**. Comprometido com boas práticas e manutenção de código limpo e sustentável.
+
+---
+
+## 📚 Formação Desenvolvedor Moderno
+**Módulo:** Back end  
+**Capítulo:** API REST, camadas, CRUD, exceções, validações  
+**Curso:** [DevSuperior](https://devsuperior.com.br)  
+
+---
 
 <div>
   <a href="https://github.com/seu-usuário-aqui">
