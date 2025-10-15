@@ -8,7 +8,17 @@ Desenvolvedor Back-End Java especializado em **Spring Boot (2025)**, com foco no
 ---
 
 ## 📚 Java Spring Professional
-**Conteúdo**:**Componentes e Injeção de Dependência**,**Estruturação de projeto e camadas**,**Modelo de Domínio e Relacionamentos**,**Mapeamento Objeto-Relacional (JPA/Hibernate)** ,**Desenvolvimento de API REST**,**Tratamento de exceções**,**Validação de dados**,**Consultas ao banco de dados**,**Transações e controle de integridade**,**Login e controle de acesso**,**Segurança: OAuth2 e JWT**,**Variáveis de ambiente e perfis de projeto**,**Configuração de ambientes: local e homologação** ,**Implantação e CI/CD**
+🛠 Technical Skills:
+
+🏗 Architecture & ORM: Layered structure (Controller, Service, Repository), domain modeling, JPA/Hibernate
+
+🌐 APIs & Services: RESTful APIs, exception handling, input validation
+
+🗄 Database: JPQL, Criteria, SQL, transaction management
+
+🔒 Security: OAuth2, JWT, login & access control
+
+☁ Deployment & CI/CD: Environment config, project profiles, cloud deployment (AWS/GCP)
 **Módulo:** Back end   
 **Curso:** [DevSuperior](https://devsuperior.com.br)  
 
