@@ -7,9 +7,8 @@ Desenvolvedor Back-End Java especializado em **Spring Boot (2025)**, com foco no
 
 ---
 
-## 📚 Formação Desenvolvedor Moderno
-**Módulo:** Back end  
-**Capítulo:** API REST, camadas, CRUD, exceções, validações  
+## 📚 Java Spring Professional
+**Módulo:** Back end   
 **Curso:** [DevSuperior](https://devsuperior.com.br)  
 
 ---
