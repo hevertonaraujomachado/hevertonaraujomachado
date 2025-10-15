@@ -19,6 +19,7 @@ Desenvolvedor Back-End Java especializado em **Spring Boot (2025)**, com foco no
 🔒 Security: OAuth2, JWT, login & access control
 
 ☁ Deployment & CI/CD: Environment config, project profiles, cloud deployment (AWS/GCP)
+
 **Módulo:** Back end   
 **Curso:** [DevSuperior](https://devsuperior.com.br)  
 
