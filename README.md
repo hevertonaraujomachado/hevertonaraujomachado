@@ -1,27 +1,25 @@
 
 # 💻 Heverton Araujo Machado
 
-Desenvolvedor Back-End Java especializado em **Spring Boot (2025)**, com foco no desenvolvimento de **APIs REST** do zero até o deploy em nuvem (**AWS** e **GCP**). Experiência em **Docker**, **JPA/Hibernate** e práticas modernas de arquitetura back-end.
+Sou Desenvolvedor Back-End focado em criar aplicações robustas e escaláveis usando Java, Spring Boot e PostgreSQL. Estou constantemente me aprimorando através de cursos e projetos práticos para entregar soluções de alta qualidade.
 
-🛠️ Forte base em arquitetura de software, **Clean Code**, **SOLID** e **MVVM**, aplicados para construir soluções **escaláveis, seguras e de alta performance**. Comprometido com boas práticas e manutenção de código limpo e sustentável.
+Tenho prática contínua em boas práticas de desenvolvimento, arquitetura de software e integração com bancos de dados, buscando crescer na carreira e contribuir com projetos desafiadores.
 
----
+🛠 Habilidades Técnicas
 
-## 📚 Java Spring Professional
-🛠 Technical Skills:
+🔹 Linguagens & Frameworks: Java, Spring Boot, JPA/Hibernate.
+🔹 Banco de Dados: PostgreSQL, SQL, modelagem relacional.
+🔹 APIs & Integração: REST APIs, tratamento de exceções, validação de dados.
+🔹 DevOps & Ferramentas: Git, variáveis de ambiente, perfis de projeto, CI/CD.
+🔹 Segurança: OAuth2, JWT, controle de acesso.
 
-🏗 Architecture & ORM: Layered structure (Controller, Service, Repository), domain modeling, JPA/Hibernate
+💡 Diferenciais
 
-🌐 APIs & Services: RESTful APIs, exception handling, input validation
+Experiência em trabalho em equipe e metodologias ágeis (Scrum).
 
-🗄 Database: JPQL, Criteria, SQL, transaction management
+Boa resolução de problemas e adaptabilidade.
 
-🔒 Security: OAuth2, JWT, login & access control
-
-☁ Deployment & CI/CD: Environment config, project profiles, cloud deployment (AWS/GCP)
-
-**Módulo:** Back end   
-**Curso:** [DevSuperior](https://devsuperior.com.br)  
+Conhecimento sólido em modelagem de dados, transações, API REST e CI/CD.
 
 ---
 
